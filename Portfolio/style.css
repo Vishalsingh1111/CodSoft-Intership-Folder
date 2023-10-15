@@ -1003,4 +1003,7 @@ button {
     .contact-info-item {
         width: 600px;
     }
+      .row .input-group {
+        width: 215%;
+    }
 }
